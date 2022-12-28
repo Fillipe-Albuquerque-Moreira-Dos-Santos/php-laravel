@@ -49,12 +49,10 @@
         @endif
     </div>
 
-    <div class="col-md-10 offset-md-1 dashboard-title-container">
-        <h1>Eventos que estou participando</h1>
-    </div>
 
     <div class="col-md-10 offset-md-1 dashboard-events-container">
         @if (count($eventsasparticipant) > 0)
+        <h1>Eventos que estou participando</h1>
 
         <table class="table">
             <thead>
@@ -88,8 +86,8 @@
         </table>
         
         @else
-            <p>Você ainda não está participando de nenehum evento, <a href="/">Veja todos os eventos disponíveis</a>
-            </p>
+           <a href="/"><p>Veja todos os eventos disponíveis</p></a>
+            
         @endif
     </div>
 
