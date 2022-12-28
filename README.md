@@ -21,7 +21,7 @@
 - php artisan migrate
 - php artisan db:seed 
 
-Agora tudo pronto, basta usar o "php artisan serve" e acessar o endereço http://localhost:8000
+Agora tudo pronto, basta usar o "php artisan serve" e acessar o endereço http://127.0.0.1:8000
 
 
 ## Visão Geral
