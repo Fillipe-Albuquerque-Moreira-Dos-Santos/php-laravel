@@ -1,0 +1,252 @@
+* {
+    font-family: 'Roboto';
+
+}
+
+#navbar img {
+
+    width: 350px ;
+}
+
+#navbar ul li {
+
+    padding: 15px;
+    font-size: 25px;
+    color: black;
+
+}
+
+
+body {
+
+    min-height: 100vh;
+    padding-bottom: 100px;
+    position: relative;
+
+}
+
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
+}
+
+.row img {
+margin: 10;
+}
+
+.container-fluid{
+    
+    padding: 1000;
+}
+
+.btn-primary {
+    border: 1px solid blueviolet;
+}
+
+.btn-primary:hover {
+    background-color: rgb(25, 25, 88);
+    border-color: rgb(25, 25, 88);
+}
+
+.msg {
+    background-color: #d4edda; 
+    color:#155724;
+    border: 1px solid #c3e6cb;
+    width: 100%;
+    margin-bottom: 0;
+    text-align: center;
+    padding: 10px;
+}
+
+#info-container .already-joined-msg {
+    margin: 15px 0;
+    color: #004085;
+    background-color: #cce5ff;
+    border: 1px solid #b8daff;
+    padding: 10px;
+    width: 275px ;
+
+}
+
+#navbar {
+ justify-content: space-between;
+ background-color: #fff;
+ padding: 5px 0;
+
+}
+
+
+/*Pesquisar o container*/
+
+#search-container  {
+    background-image: url(../img/EventosdeRH.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 700px;
+    padding: 50px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#search-container h1 {
+    color: #fff;
+    margin-bottom: 30px;
+    font-weight: 900;
+}
+
+#search-container form {
+    width: 50%;
+    margin: 0 auto;
+}
+
+/* Lista de eventos */
+
+#events-container h2 {
+    margin-bottom: 20px;
+}
+
+#events-container .subtitle {
+    color: rgb(147, 181, 204);
+}
+
+.card-container {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+#events-container .card {
+
+    flex: 1 1 24%;
+    max-width:  25%;
+    border-radius: 10px;
+    padding: 0;
+    margin: .5%;  
+}
+
+
+
+.card .card-date {
+    font-size: 15px;
+    color: #ccc;
+}
+
+.card .card-tile {
+    color: #212121;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.card-participantes {
+    font-size: 14px;
+    color: #757575;
+}
+
+/* Página do cirar evento */
+#event-create-container {
+    padding: 30px;
+}
+
+#event-create-container label {
+    font-weight: bold;
+}
+
+#event-create-container label, 
+
+#event-create-container select,
+
+#event-create-container textarea {
+
+    font-size: 18px;
+}
+
+/* Página de evento */
+
+#image-container,
+#info-container {
+    margin-top: 30px;
+}
+
+#image-container img {
+    border-radius: 10px;
+}
+
+#info-container h1 {
+    font-size: 36px;
+    font-weight: 900;
+}
+
+#info-container p {
+    margin: 0;
+    font-size: 14px;
+    display: flex;
+}
+
+#info-container h3
+#description-container h3 {
+font-size: 20px;
+color: #f2a340;
+margin-right: 5px;
+}
+
+#info-container ion-icon {
+    font-size: 20px;
+    color: rgb(13, 13, 141);
+    margin-right: 5px;
+}
+
+#info-container #event-submit {
+    margin: 20px 0;
+}
+
+#itens-list {
+    list-style: none;
+    padding-left: 0;
+
+}
+
+#itens-list li {
+    display: flex;
+}
+
+/*DashBoard*/
+
+.dashboard-title-container {
+    margin-bottom: 30px;
+    margin-top: 30px;
+
+}
+
+.dashboard-events-container th {
+    width: 25%;
+    
+}
+
+.dashboard-events-container form {
+    display: inline-block;
+    
+}
+
+/* Página de edição*/
+
+.img-preview {
+    width: 100px;
+    margin-top: 20px;
+}
+
+
+/*footer */
+
+footer {
+    text-align: center;
+    background-color: #353e48;
+    color: #fff;
+    padding: 30px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin-bottom: 0;
+}

@@ -1,0 +1,1 @@
+<h1>Tela de Contatos do Laravel criado no BLADE para testes</h1>
