@@ -32,7 +32,7 @@ Foi utilizado uma estrutura de base de dados simples com a tabela de usuarios do
 uma tabela para persistir os eventos e uma ultima tabela para a compra do ingresso onde ficam salvos o evento, 
 quantidade e o usuário. Estou disponibilizando o.sql para agilizar o processo
 
-## Segue abaixo um vídeo do projeto
+## Segue abaixo um vídeo do projeto (NÃO TEM SOM)
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=t4ybvKbe9Tc)
 
 Qualquer duvida fico a disposição no email "fillipefff@gmail.com"
