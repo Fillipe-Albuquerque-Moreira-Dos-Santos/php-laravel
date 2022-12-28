@@ -16,10 +16,8 @@
 - composer install
 - cp .env.example .env
 - Configurar o arquivo .env com as informações de conexão da base de dados.
-- php artisan key:generate
-- php artisan storage:link
 - php artisan migrate
-- php artisan db:seed 
+
 
 Agora tudo pronto, basta usar o "php artisan serve" e acessar o endereço http://127.0.0.1:8000
 
