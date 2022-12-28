@@ -33,6 +33,6 @@ uma tabela para persistir os eventos e uma ultima tabela para a compra do ingres
 quantidade e o usuário. Estou disponibilizando o.sql para agilizar o processo
 
 ## Segue abaixo um vídeo do projeto
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=t4ybvKbe9Tc)
 
 Qualquer duvida fico a disposição no email "fillipefff@gmail.com"
