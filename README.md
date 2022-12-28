@@ -29,8 +29,7 @@ Agora tudo pronto, basta usar o "php artisan serve" e acessar o endereço http:/
 Sistema para a gestão de eventos, permite que cada usuário crie e edite os seus eventos em uma área protegida por login e senha. Os eventos que que tiverem marcados como postados e forem de data posterior ao dia atual são exibidos na tela inicial do sistema da qual não necessita de autenticação para ser acessados.
 
 Foi utilizado uma estrutura de base de dados simples com a tabela de usuarios do proprio laravel, 
-uma tabela para persistir os eventos e uma ultima tabela para a compra do ingresso onde ficam salvos o evento, 
-quantidade e o usuário. Estou disponibilizando o.sql para agilizar o processo
+uma tabela para persistir somar os usuários e guardar os eventos. Estou disponibilizando o.sql para agilizar o processo
 
 ## Segue abaixo um vídeo do projeto (NÃO TEM SOM)
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=t4ybvKbe9Tc)
