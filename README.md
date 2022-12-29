@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-# Instalação do Sistema
+# Instalação do Sistema Laravel 9
 
 #### No terminal siga a lista de comandos abaixo:
 
