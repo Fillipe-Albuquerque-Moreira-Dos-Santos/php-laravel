@@ -8,7 +8,7 @@
 </p>
 
 # Instalação do projeto 
-# Laravel 9
+# Laravel 9x
 
 #### No terminal siga a lista de comandos abaixo:
 
