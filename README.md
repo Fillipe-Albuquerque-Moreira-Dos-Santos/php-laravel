@@ -15,6 +15,8 @@
 - git clone https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/php-laravel
 - cd php-laravel
 - composer install --no-scripts
+### Caso o composer install n~]ao funcione execute este comando
+- composer install --ignore-platform-reqs
 - cp .env.example .env
 - php artisan key:generate
 - Configurar o arquivo .env com as informações de conexão da base de dados.
