@@ -20,6 +20,11 @@
 - Configurar o arquivo .env com as informações de conexão da base de dados.
 - php artisan migrate
 
+#### Observações importantes
+
+- Instalar o Node.Js
+- Instalar no temrinal o jetstream
+
 
 Agora tudo pronto, basta usar o "php artisan serve" e acessar o endereço http://127.0.0.1:8000
 
