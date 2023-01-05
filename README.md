@@ -23,7 +23,7 @@
 #### Observações importantes
 
 - Instalar o Node.Js
-- Instalar no temrinal o jetstream
+- Instalar no terminal o jetstream
 
 
 Agora tudo pronto, basta usar o "php artisan serve" e acessar o endereço http://127.0.0.1:8000
