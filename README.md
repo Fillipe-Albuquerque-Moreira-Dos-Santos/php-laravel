@@ -25,7 +25,7 @@
 - Caso o composer install não funcione execute este comando
 - composer install --ignore-platform-reqs
 - Instalar o Node.Js
-- Instalar no terminal o jetstream
+- Instalar no terminal o jetstream (Sistema de Login do próprio Laravel)
 
 
 Agora tudo pronto, basta usar o "php artisan serve" e acessar o endereço http://127.0.0.1:8000
