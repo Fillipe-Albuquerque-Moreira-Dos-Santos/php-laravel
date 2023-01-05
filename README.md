@@ -14,8 +14,9 @@
 
 - git clone https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/php-laravel
 - cd php-laravel
-- composer install
+- composer install --no-scripts
 - cp .env.example .env
+- php artisan key:generate
 - Configurar o arquivo .env com as informações de conexão da base de dados.
 - php artisan migrate
 
