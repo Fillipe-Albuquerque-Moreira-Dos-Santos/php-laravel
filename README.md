@@ -10,7 +10,7 @@
 # Instalação do projeto 
 # Laravel 9x
 
-#### No terminal siga a lista de comandos abaixo
+#### No terminal siga a lista de comandos abaixo:
 
 - git clone https://github.com/Fillipe-Albuquerque-Moreira-Dos-Santos/php-laravel
 - cd php-laravel
